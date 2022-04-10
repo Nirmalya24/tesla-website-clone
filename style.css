@@ -1,6 +1,7 @@
 * {
   padding: 0;
   margin: 0;
+  box-sizing: border-box;
 }
 
 html {
@@ -126,7 +127,7 @@ section .buttons {
 aside {
   position: fixed;
   transition: right .4s ease;
-  right: -320px;
+  right: -480px;
   width: 320px;
   background-color: white;
   padding: 80px 40px;
